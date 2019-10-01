@@ -4,23 +4,23 @@ This repository stores the dataset generated and used in _Electro-Magnetic Side-
 ## Repository Structure
 The files are stored as followed:
 
-* train : 98722 clean/noisy pairs
-    * noisy : the intercepted samples
+* train : 98722 clean/noisy pairs --> 3.9 Go
+    * noisy : the intercepted samples --> 3.7 Go (around 700Mo per sub-directory)
         * 0-19999
         * 20000-39999
         * 40000-59999
         * 60000-79999
         * 80000-98722
-    * ref : the clean samples
+    * ref : the clean samples --> 103 Mo
         * 0-19999
         * 20000-39999
         * 40000-59999
         * 60000-79999
         * 80000-98722
-* test : 12563 clean/noisy pairs
+* test : 12563 clean/noisy pairs --> 537 Mo
     * noisy
     * ref
-* val : 12325 clean/noisy pairs
+* val : 12325 clean/noisy pairs --> 522 Mo
     * noisy
     * ref
     
