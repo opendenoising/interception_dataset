@@ -35,8 +35,12 @@ You can find further information on our research in the repositories of that org
 
 The dataset is free to use until you propagate the licence and you cite our paper using the following format:
 
-BIBTEX OF THE PAPER TO INCLUDE.
-
+@article{lemarchand2019electro,
+  title={Electro-Magnetic Side-Channel Attack Through Learned Denoising and Classification},
+  author={Lemarchand, Florian and Marlin, Cyril and Montreuil, Florent and Nogues, Erwan and Pelcat, Maxime},
+  journal={arXiv preprint arXiv:1910.07201},
+  year={2019}
+}
 
 ## Contact
 Florian Lemarchand : A@B.fr, A=florian.lemarchand and B = insa-rennes
